@@ -39,14 +39,11 @@
 
 ### 📬 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-freitas-rodrigues-990b04227/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/bituserdev/" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://wa.me/seunumerodetelefone" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
